@@ -1,0 +1,14 @@
+﻿certificate,degree,math_requirement,physics_requirement,overall_requirement,additional_conditions,source_page,source
+IGCSE,BSc,Grade B,Grade B for engineering/architecture; not required for SCI,80,"Tawjihi equivalency; engineering accepts A2 Math+A2 Physics, A2 Math+AS Physics, or AS Math+A2 Physics. SCI requires full A-level Math.","2,8,13",Untitled document(1).pdf
+IGCSE,Technical,Grade C,Grade C for engineering/architecture,70,Tawjihi equivalency.,"2,8,13",Untitled document(1).pdf
+IGCSE,Technician,Grade D,Grade D for engineering/architecture,70,Tawjihi equivalency.,"2,8,13",Untitled document(1).pdf
+IB,BSc,5 / HL for SCI,5 for engineering/architecture,80,"Engineering/architecture: HL Math+HL Physics, HL Math+SL Physics, or SL Math+HL Physics.","3,9,14",Untitled document(1).pdf
+IB,Technical,4,4 for engineering/architecture,70,Tawjihi equivalency.,"3,9,14",Untitled document(1).pdf
+IB,Technician,3,3 for engineering/architecture,70,Tawjihi equivalency.,"3,9,14",Untitled document(1).pdf
+American (ACT/AP/SAT II),BSc,ACT 28 / AP 5 / SAT II 630,Same for engineering/architecture,80,Only Math II counts for ACT; only AP Calculus counts for AP; no other American certificate forms accepted.,"3-4,9,14-15",Untitled document(1).pdf
+American (ACT/AP/SAT II),Technical,ACT 24 / AP 4 / SAT II 540,Same for engineering/architecture,70,Tawjihi equivalency.,"3-4,9,14-15",Untitled document(1).pdf
+American (ACT/AP/SAT II),Technician,ACT 21 / AP 3 / SAT II 450,Same for engineering/architecture,70,Tawjihi equivalency.,"4,9,14-15",Untitled document(1).pdf
+BTEC,BSc,Distinction,Distinction for engineering/architecture,80,Academic BTEC; Level 3 in relevant field; complete academic requirements for equivalency.,"4-5,10,15-16",Untitled document(1).pdf
+BTEC,Technical,Merit,Merit for engineering/architecture,70,Academic BTEC; relevant Level 3 qualification.,"4-5,10,15-16",Untitled document(1).pdf
+BTEC,Technician,Pass,Pass for engineering/architecture,70,Academic BTEC; relevant Level 3 qualification.,"5,10,15-16",Untitled document(1).pdf
+Bridging / Associate degree,BSc,,,80,Comprehensive exam score at least 80% or associate GPA at least 80%; corresponding prior major.,"5,11,16",Untitled document(1).pdf

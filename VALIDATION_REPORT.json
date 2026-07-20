@@ -1,0 +1,21 @@
+{
+  "knowledge_base_files_checked": 18,
+  "course_rows": 884,
+  "study_plan_rows": 20,
+  "current_programme_degree_pairs": 17,
+  "chatbot_regression_checks": 20,
+  "model_rows_used": 5000,
+  "model_test_accuracy": 0.649,
+  "model_test_macro_f1": 0.6522,
+  "model_cross_validated_macro_f1": 0.6775,
+  "status": "passed",
+  "ui_ux_review": "passed",
+  "primary_navigation_items": 4,
+  "quick_question_categories": 6,
+  "mobile_touch_target_px": "44-48",
+  "keyboard_focus_styles": true,
+  "light_dark_high_contrast_themes": true,
+  "inline_form_validation": true,
+  "python_syntax_check": "passed",
+  "streamlit_server_smoke_test": "not executed in build container because the Streamlit runtime executable is not installed; streamlit remains declared in requirements.txt"
+}

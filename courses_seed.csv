@@ -1,0 +1,19 @@
+major,course_code,course_name,credit_hours,prerequisite
+Computer Science,0040201100,Programming,3,Fundamentals of Computing
+Computer Science,0040201201,Data Structures & Algorithms,3,Programming
+Computer Science,0040201260,Website Design & Development,3,Programming
+Computer Science,0010204282,Database Design & Development,3,Programming
+Cyber Security,0010203340,Cryptography,3,Discrete Maths
+Cyber Security,0010203210,Network Security,3,Security
+Cyber Security,0010203361,Forensics,3,Computer Organization and Design; Security
+Data Science and Artificial Intelligence,0010204250,Artificial Intelligence & Intelligent Systems,3,Maths for Computing
+Data Science and Artificial Intelligence,0010204210,Data Analytics,3,Maths for Computing
+Data Science and Artificial Intelligence,0000204430,Data Mining,3,Data Analytics
+Data Science and Artificial Intelligence,0010204350,Machine Learning,3,See official study plan
+Electrical Engineering,30303112,Functional Physics,3,None
+Electrical Engineering,00103110,Engineering Math,4,Functional Math
+Mechanical Engineering,SEED-ME-001,Mechanical Systems and Design,3,Prototype entry
+Energy Engineering,SEED-ENE-001,Energy Systems,3,Prototype entry
+Industrial Engineering,SEED-IE-001,Operations Research,3,Prototype entry
+Game Design and Development,SEED-GD-001,Game Design Fundamentals,3,Prototype entry
+Architectural Engineering,SEED-AE-001,Architectural Design Fundamentals,3,Prototype entry

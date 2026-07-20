@@ -1,0 +1,263 @@
+[
+  {
+    "id": "mechanical_engineering",
+    "model_label": "Mechanical Engineering",
+    "display_name": "Mechanical Engineering",
+    "school": "School of Engineering Technology",
+    "degree": "Bachelor's Degree",
+    "summary": "Focuses on designing, analysing, building, and testing mechanical systems using mathematics, science, engineering tools, experiments, and practical projects.",
+    "core_interests": [
+      "machines",
+      "design",
+      "manufacturing",
+      "mechanics",
+      "problem solving"
+    ],
+    "sample_skills": [
+      "engineering design",
+      "CAD",
+      "experimentation",
+      "modelling",
+      "teamwork"
+    ],
+    "sample_careers": [
+      "Mechanical Engineer",
+      "Design Engineer",
+      "Manufacturing Engineer",
+      "Maintenance Engineer"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "electrical_engineering",
+    "model_label": "Electrical Engineering",
+    "display_name": "Electrical Engineering",
+    "school": "School of Engineering Technology",
+    "degree": "Bachelor's Degree",
+    "summary": "Focuses on electrical systems, circuits, electronics, control, power, experimentation, modelling, and practical engineering applications.",
+    "core_interests": [
+      "circuits",
+      "electricity",
+      "electronics",
+      "control",
+      "mathematics"
+    ],
+    "sample_skills": [
+      "circuit analysis",
+      "electrical design",
+      "simulation",
+      "laboratory testing",
+      "problem solving"
+    ],
+    "sample_careers": [
+      "Electrical Engineer",
+      "Control Engineer",
+      "Power Engineer",
+      "Electronics Engineer"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "energy_engineering",
+    "model_label": "Energy Engineering",
+    "display_name": "Energy Engineering",
+    "school": "School of Engineering Technology",
+    "degree": "Bachelor's Degree",
+    "summary": "Focuses on designing and analysing practical energy systems, including efficient and sustainable energy applications.",
+    "core_interests": [
+      "energy systems",
+      "sustainability",
+      "renewable energy",
+      "thermodynamics",
+      "environment"
+    ],
+    "sample_skills": [
+      "energy analysis",
+      "system design",
+      "experimentation",
+      "modelling",
+      "data analysis"
+    ],
+    "sample_careers": [
+      "Energy Engineer",
+      "Renewable Energy Engineer",
+      "Energy Analyst",
+      "Sustainability Engineer"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "computer_science",
+    "model_label": "CS",
+    "display_name": "Computer Science",
+    "school": "School of Computing and Informatics",
+    "degree": "Bachelor of Science",
+    "summary": "Focuses on programming, algorithms, software development, databases, systems, computing research, and problem solving.",
+    "core_interests": [
+      "programming",
+      "software",
+      "algorithms",
+      "computers",
+      "problem solving"
+    ],
+    "sample_skills": [
+      "programming",
+      "data structures",
+      "software development",
+      "database design",
+      "systems analysis"
+    ],
+    "sample_careers": [
+      "Software Developer",
+      "Backend Developer",
+      "Systems Analyst",
+      "Database Developer"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "cybersecurity",
+    "model_label": "Cybersecurity",
+    "display_name": "Cyber Security",
+    "school": "School of Computing and Informatics",
+    "degree": "Bachelor of Science",
+    "summary": "Focuses on protecting systems and networks through security, cryptography, network security, forensics, and information-security management.",
+    "core_interests": [
+      "security",
+      "networks",
+      "investigation",
+      "privacy",
+      "problem solving"
+    ],
+    "sample_skills": [
+      "network security",
+      "cryptography",
+      "digital forensics",
+      "risk analysis",
+      "security management"
+    ],
+    "sample_careers": [
+      "Cybersecurity Analyst",
+      "SOC Analyst",
+      "Security Engineer",
+      "Digital Forensics Analyst"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "data_science_ai",
+    "display_name": "Data Science and Artificial Intelligence",
+    "school": "School of Computing and Informatics",
+    "degree": "Bachelor of Science",
+    "summary": "Focuses on artificial intelligence, data analytics, data science programming, machine learning, data mining, modelling, and intelligent systems.",
+    "core_interests": [
+      "AI",
+      "data",
+      "statistics",
+      "programming",
+      "mathematics"
+    ],
+    "sample_skills": [
+      "machine learning",
+      "data analytics",
+      "data mining",
+      "AI systems",
+      "modelling"
+    ],
+    "sample_careers": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Data Analyst",
+      "AI Engineer"
+    ],
+    "data_status": "official-plan-supported",
+    "model_label": "Data Science and Artificial Intelligence"
+  },
+  {
+    "id": "game_design",
+    "model_label": "Game Design & Development",
+    "display_name": "Game Design and Development",
+    "school": "School of Computing and Informatics",
+    "degree": "Technical Degree",
+    "summary": "Combines game design, digital creativity, programming, visual design, interactive media, and project development.",
+    "core_interests": [
+      "games",
+      "storytelling",
+      "visual design",
+      "programming",
+      "creativity"
+    ],
+    "sample_skills": [
+      "game design",
+      "prototyping",
+      "programming",
+      "visual communication",
+      "team production"
+    ],
+    "sample_careers": [
+      "Game Developer",
+      "Game Designer",
+      "Level Designer",
+      "Interactive Media Developer"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "industrial_engineering",
+    "model_label": "Industrial Engineering",
+    "display_name": "Industrial Engineering",
+    "school": "School of Engineering Technology",
+    "degree": "Bachelor's Degree",
+    "summary": "Focuses on operations, production planning, quality, optimisation, logistics, data analytics, automation, and improving organisations and systems.",
+    "core_interests": [
+      "optimisation",
+      "business operations",
+      "quality",
+      "logistics",
+      "data"
+    ],
+    "sample_skills": [
+      "operations research",
+      "quality control",
+      "data analytics",
+      "production planning",
+      "decision making"
+    ],
+    "sample_careers": [
+      "Industrial Engineer",
+      "Operations Analyst",
+      "Quality Engineer",
+      "Supply Chain Analyst"
+    ],
+    "data_status": "official-plan-supported"
+  },
+  {
+    "id": "architecture_engineering",
+    "model_label": "Architecture Engineering",
+    "display_name": "Architectural Engineering",
+    "school": "School of Engineering Technology",
+    "degree": "Bachelor's Degree",
+    "summary": "Prototype description: combines building design, technical engineering, mathematics, creativity, visual communication, and practical problem solving.",
+    "core_interests": [
+      "buildings",
+      "design",
+      "drawing",
+      "mathematics",
+      "creative problem solving"
+    ],
+    "sample_skills": [
+      "design thinking",
+      "technical drawing",
+      "modelling",
+      "spatial reasoning",
+      "teamwork"
+    ],
+    "sample_careers": [
+      "Architectural Engineer",
+      "Building Design Engineer",
+      "BIM Specialist",
+      "Design Coordinator"
+    ],
+    "data_status": "prototype-needs-official-plan"
+  }
+]

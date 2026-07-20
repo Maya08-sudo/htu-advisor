@@ -1,0 +1,21 @@
+﻿major,degree_level,academic_year,status,total_credit_hours,source,use_for_chatbot,notes
+Cyber Security,Technical,Current uploaded version,current,63,73f333d7-5819-ed11-b847-00155d140b05_15cd7ad37c9b480c8941328a146fec6e.pdf,yes,Current official source used for chatbot answers.
+Energy Engineering,Technical,2022,current,132,73f333d7-5819-ed11-b847-00155d140b05_f6979bdb96b1410f9409d547020c9359.pdf,yes,Current official source used for chatbot answers.
+Energy Engineering,BSc,2019,archived,166,73f333d7-5819-ed11-b847-00155d140b05_f29740927fdd4edd97318d1a9a9ad684.pdf,no,Kept for historical comparison only.
+Data Science and Artificial Intelligence,BSc,Current uploaded version,current,87,73f333d7-5819-ed11-b847-00155d140b05_21f85505140f47e7b9301487f2c56364.pdf,yes,Current official source used for chatbot answers.
+Data Science and Artificial Intelligence,Technical,Current uploaded version,current,63,73f333d7-5819-ed11-b847-00155d140b05_14e97f0f4b0d4574acc5891501674540.pdf,yes,Current official source used for chatbot answers.
+Data Science and Artificial Intelligence,BSc,Older uploaded version,archived,87,73f333d7-5819-ed11-b847-00155d140b05_53c8f675f3ca4629ba0f4a37a0dc5d38.pdf,no,Kept for historical comparison only.
+Electrical Engineering,BSc,2022,current,166,73f333d7-5819-ed11-b847-00155d140b05_a5f16efa559d481cac6cc29f1cb2d9dc.pdf,yes,Current official source used for chatbot answers.
+Electrical Engineering,Technical,2022,current,132,73f333d7-5819-ed11-b847-00155d140b05_2c51c9ef2be44c07bbef01112b5a0a1d.pdf,yes,Current official source used for chatbot answers.
+Electrical Engineering,BSc,2022 duplicate,duplicate,166,73f333d7-5819-ed11-b847-00155d140b05_4f9b7f5660f34114be0a39708440b98a.pdf,no,Kept for historical comparison only.
+Cyber Security,BSc,Current uploaded version,current,87,73f333d7-5819-ed11-b847-00155d140b05_dc244d83a4674f8e960344332e7374d7.pdf,yes,Current official source used for chatbot answers.
+Cyber Security,BSc,Current uploaded version,duplicate,87,73f333d7-5819-ed11-b847-00155d140b05_dc244d83a4674f8e960344332e7374d7(1).pdf,no,Duplicate or alternative version retained only for source tracking.
+Cyber Security,Technical,Current uploaded version,duplicate,63,73f333d7-5819-ed11-b847-00155d140b05_15cd7ad37c9b480c8941328a146fec6e(1).pdf,no,Duplicate or alternative version retained only for source tracking.
+Cyber Security,BSc,Alternative current version,archived,87,73f333d7-5819-ed11-b847-00155d140b05_c0769b4e1af74102aa66d944444c4805.pdf,no,Duplicate or alternative version retained only for source tracking.
+Computer Science,BSc,Current uploaded version,current,87,73f333d7-5819-ed11-b847-00155d140b05_1c0069b53f02468782eb8d730f63e467.pdf,yes,Current official source used for chatbot answers.
+Computer Science,Technical,Current uploaded version,current,63,73f333d7-5819-ed11-b847-00155d140b05_fe5c3d8583084046b54b99784d0ed024.pdf,yes,Current official source used for chatbot answers.
+Computer Science,BSc,Current uploaded version,duplicate,87,73f333d7-5819-ed11-b847-00155d140b05_7f90de28460448f5b469be7fc7abd512 (1).pdf,no,Duplicate or alternative version retained only for source tracking.
+Game Design and Development,Technician,2023,duplicate,72,3c891da3-1138-eb11-9240-00155d404d09_c53e447fe6954c489d9c7264cb43c6e0.pdf,no,Duplicate or alternative version retained only for source tracking.
+Mechanical Engineering,BSc,"2022, version Jan. 2025",current,166,3c891da3-1138-eb11-9240-00155d404d09_fa9e0e99ae774274bc84a8ca9fd349d4.pdf,yes,Current official source used for chatbot answers.
+Mechanical Engineering,BSc,"2022, version Jan. 2025",duplicate,166,3c891da3-1138-eb11-9240-00155d404d09_6248166ed38c49679238097d5d4336e1.pdf,no,Duplicate or alternative version retained only for source tracking.
+Mechanical Engineering,BSc,"2022, version Jan. 2025",duplicate,166,3c891da3-1138-eb11-9240-00155d404d09_7f1db790bf014490b153a7cbcdc5d7a6(2).pdf,no,Duplicate or alternative version retained only for source tracking.

@@ -1,0 +1,15 @@
+{
+  "current_code_labels": {
+    "CS": "Computer Science",
+    "Cybersecurity": "Cyber Security",
+    "Architecture Engineering": "Architectural Engineering"
+  },
+  "merged_label": {
+    "old_labels": [
+      "AI",
+      "Datascience"
+    ],
+    "new_label": "Data Science and Artificial Intelligence"
+  },
+  "important_note": "The training dataset now uses one combined label for the official HTU programme."
+}

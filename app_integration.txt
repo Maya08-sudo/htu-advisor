@@ -1,0 +1,16 @@
+# Add this near the top of app.py:
+from model_manager import load_current_model
+
+# Replace the three direct joblib.load(...) lines with:
+model, label_encoder, feature_columns = load_current_model(
+    auto_retrain=True,
+    minimum_accuracy=0.70,
+)
+
+# Important:
+# Because best_major_predictor.pkl is now a full sklearn Pipeline,
+# prediction should receive a pandas DataFrame with the original feature names:
+#
+# input_df = pd.DataFrame([feature_vector], columns=feature_columns)
+# encoded_prediction = model.predict(input_df)[0]
+# predicted_major = label_encoder.inverse_transform([encoded_prediction])[0]

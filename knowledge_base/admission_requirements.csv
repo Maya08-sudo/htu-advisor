@@ -1,0 +1,26 @@
+﻿school,degree,major,certificate,math_min,physics_min,overall_min,notes,source_page,source
+SET,BSc,Mechanical Engineering,Tawjihi / numeric,80,80,80,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technical,Mechanical Engineering,Tawjihi / numeric,70,70,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technician,Mechanical Engineering,Tawjihi / numeric,60,60,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,BSc,Energy Engineering,Tawjihi / numeric,80,80,80,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technical,Energy Engineering,Tawjihi / numeric,70,70,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technician,Energy Engineering,Tawjihi / numeric,60,60,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,BSc,Electrical Engineering,Tawjihi / numeric,80,80,80,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technical,Electrical Engineering,Tawjihi / numeric,70,70,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technician,Electrical Engineering,Tawjihi / numeric,60,60,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,BSc,Industrial Engineering,Tawjihi / numeric,80,80,80,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technical,Industrial Engineering,Tawjihi / numeric,70,70,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SET,Technician,Industrial Engineering,Tawjihi / numeric,60,60,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SBEE,BSc,Architectural Engineering,Tawjihi / numeric,80,80,80,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SBEE,Technical,Architectural Engineering,Tawjihi / numeric,70,70,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SBEE,Technician,Architectural Engineering,Tawjihi / numeric,60,60,70,All conditions must be met; no individual school subject score below 50%.,1-12,Untitled document(1).pdf
+SCI,BSc,Computer Science,Tawjihi / numeric,80,,80,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technical,Computer Science,Tawjihi / numeric,70,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technician,Computer Science,Tawjihi / numeric,60,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,BSc,Data Science & Artificial Intelligence,Tawjihi / numeric,80,,80,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technical,Data Science & Artificial Intelligence,Tawjihi / numeric,70,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technician,Data Science & Artificial Intelligence,Tawjihi / numeric,60,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,BSc,Cyber Security,Tawjihi / numeric,80,,80,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technical,Cyber Security,Tawjihi / numeric,70,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technician,Cyber Security,Tawjihi / numeric,60,,70,All conditions must be met; mathematics must appear on transcript; no individual subject below 50%.,12-16,Untitled document(1).pdf
+SCI,Technician,Game Design & Development,Tawjihi / numeric,60,,70,All conditions must be met.,12,Untitled document(1).pdf

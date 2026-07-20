@@ -1,0 +1,59 @@
+{
+  "version": "prototype-1.0",
+  "warning": "Use for the working prototype. Verify all certificate-specific values against the latest official HTU admission policy before public deployment.",
+  "tawjihi": [
+    {
+      "group": "Engineering and Cybersecurity BSc",
+      "programs": [
+        "Mechanical Engineering",
+        "Energy Engineering",
+        "Electrical Engineering",
+        "Architectural Engineering",
+        "Cyber Security"
+      ],
+      "math_min": 80,
+      "physics_min": 80,
+      "average_min": 80,
+      "all_conditions_required": true
+    },
+    {
+      "group": "Computer Science, Data Science and AI, Industrial Engineering BSc",
+      "programs": [
+        "Computer Science",
+        "Data Science and Artificial Intelligence",
+        "Industrial Engineering"
+      ],
+      "math_min": 85,
+      "physics_min": 85,
+      "average_min": 85,
+      "all_conditions_required": true
+    },
+    {
+      "group": "Technical Degree",
+      "programs": [
+        "Game Design and Development"
+      ],
+      "math_min": 70,
+      "physics_min": 70,
+      "average_min": 70,
+      "all_conditions_required": true
+    }
+  ],
+  "prototype_model_tiers": {
+    "Eligible_All_BSc": {
+      "math_min": 85,
+      "physics_min": 85,
+      "average_min": 85
+    },
+    "Eligible_BSc": {
+      "math_min": 80,
+      "physics_min": 80,
+      "average_min": 80
+    },
+    "Eligible_Tech": {
+      "math_min": 70,
+      "physics_min": 70,
+      "average_min": 70
+    }
+  }
+}
